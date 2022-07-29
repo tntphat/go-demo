@@ -1,0 +1,7 @@
+env: localhost
+port: 1000
+token_secret_key: abc123
+
+user_service_endpoint: localhost:1001
+
+internal_secured_key: abc456
